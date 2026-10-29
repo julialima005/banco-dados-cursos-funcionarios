@@ -52,6 +52,10 @@ git clone https://github.com/julialima005/banco-dados-cursos-funcionarios.git
 cd banco-dados-cursos-funcionarios
 ```
 
+## Demonstração
+<img width="1010" height="224" alt="image" src="https://github.com/user-attachments/assets/7261da62-5d66-40c2-aef4-04cd79373689" />
+
+
 ## Resultado esperado
 
 A consulta final retorna cinco inscrições, mostrando:
